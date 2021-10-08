@@ -1,0 +1,4 @@
+-keep class com.google.firebase.crashlytics.** { *; }
+-keep class timber.log.** { *; }
+-keep class com.facebook.FacebookSdk
+-keep class com.path.android.jobqueue.JobManager
