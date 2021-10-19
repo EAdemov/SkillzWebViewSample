@@ -17,9 +17,5 @@ class LaunchActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        findViewById<AppCompatButton>(R.id.btnStart).setOnClickListener {
-            Skillz.launch(this)
-        }
     }
 }

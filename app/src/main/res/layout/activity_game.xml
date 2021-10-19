@@ -5,4 +5,9 @@
     android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
     android:id="@+id/rlGame">
 
+    <WebView
+        android:id="@+id/wvGame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
 </RelativeLayout>

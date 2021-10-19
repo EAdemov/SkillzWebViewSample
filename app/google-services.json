@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675377397286",
+    "project_id": "webviewskillzsample",
+    "storage_bucket": "webviewskillzsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675377397286:android:c2cce7c70d2e913d57b0e7",
+        "android_client_info": {
+          "package_name": "com.skillzwebviewsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675377397286-rnl2o3tuakmntd4s3fsqdf0a52sl58lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD4IJV3YCurKDSUzHoryTOVg7O_vLd-Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675377397286-rnl2o3tuakmntd4s3fsqdf0a52sl58lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
